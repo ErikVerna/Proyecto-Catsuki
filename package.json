@@ -1,0 +1,22 @@
+{
+  "name": "coderhood-catsuki",
+  "version": "1.0.0",
+  "description": "Prueba para Vercel:\r HTML + CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikVerna/Proyecto-Catsuki.git"
+  },
+  "author": "Erik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErikVerna/Proyecto-Catsuki/issues"
+  },
+  "homepage": "https://github.com/ErikVerna/Proyecto-Catsuki#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.7"
+  }
+}
